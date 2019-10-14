@@ -3,3 +3,13 @@ Dataset on which I worked on 5 Celebrity Faces Dataset (https://www.kaggle.com/d
 
 The Loss function used is binary cross-entropy is uses sigmoind fuction to classify the data. it predicts for each the probabily of it being in postive class and negetive class.
 The accuracy in validation data is ~86%  with batch size of 32
+
+Install Jupyter - https://jupyter.org/install (Or Open in google collab https://colab.research.google.com)
+
+Dependencies used:
+Numpy 
+Pandas
+Tensorflow
+Keras
+OpenCV 2
+Matplotlib
