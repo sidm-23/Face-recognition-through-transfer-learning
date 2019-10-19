@@ -14,9 +14,4 @@ The .ipynb file has the code. Download the dataset unzip it, also download the '
 
 Dependencies used:
 ============
-Numpy 
-Pandas
-Tensorflow
-Keras
-OpenCV 2
-Matplotlib
+Numpy  Pandas  Tensorflow  Keras  OpenCV 2  Matplotlib
